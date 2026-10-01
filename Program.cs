@@ -1,5 +1,6 @@
 ﻿// Program.cs
 using CSharpFundamentals.Basics;
+using System.ComponentModel.DataAnnotations;
 
 namespace CSharpFundamentals
 {
@@ -7,9 +8,8 @@ namespace CSharpFundamentals
     {
         static void Main()
         {
-            Variable.Run();
-            // DataType.Run();
-            // Methods.Run();
+            // Variable.Run();
+            Datatype.Run();
         }
     }
 }
