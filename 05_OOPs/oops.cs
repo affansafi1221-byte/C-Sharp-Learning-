@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharpFundamentals._05_OOPs
 {
-    internal class oops
+    internal class OOPs
     {
     }
 }

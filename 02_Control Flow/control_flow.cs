@@ -1,10 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace CSharpFundamentals._02_Control_Flow
+namespace CSharpFundamentals.ControlFlow   // was: Basics
 {
-    internal class control_flow
+    class ControlFlow                      // was: Variable
     {
+        public static void Run()           // was: static void Main()
+        {
+            // your control flow code here
+        }
     }
 }

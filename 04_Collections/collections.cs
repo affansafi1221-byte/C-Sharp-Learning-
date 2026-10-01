@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharpFundamentals._04_Collections
 {
-    internal class collections
+    internal class Collections
     {
     }
 }

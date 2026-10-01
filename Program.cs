@@ -1,16 +1,15 @@
-﻿using System;
+﻿// Program.cs
+using CSharpFundamentals.Basics;
 
 namespace CSharpFundamentals
-
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello Safi");
-            Console.WriteLine("I'm Learning C-Sharp");
-            
+            Variable.Run();
+            // DataType.Run();
+            // Methods.Run();
         }
-
     }
 }

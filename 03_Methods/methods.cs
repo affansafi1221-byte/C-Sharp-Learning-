@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharpFundamentals._03_Methods
 {
-    internal class methods
+    internal class Methods
     {
     }
 }
