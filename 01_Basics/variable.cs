@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharpFundamentals.Basics
 {
-    internal class variable
+    class variable
     {
     }
 }
