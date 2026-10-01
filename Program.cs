@@ -9,7 +9,7 @@ namespace CSharpFundamentals
         static void Main()
         {
             // Variable.Run();
-            Datatype.Run();
+            Controlflow.Run();
         }
     }
 }
