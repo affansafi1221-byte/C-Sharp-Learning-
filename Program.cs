@@ -1,8 +1,10 @@
 ﻿// Program.cs
 using CSharpFundamentals._03_Methods;
 using CSharpFundamentals._07_Modern;
+using CSharpFundamentals._08_Async;
 using CSharpFundamentals.Basics;
 using System.ComponentModel.DataAnnotations;
+using System.Reflection;
 
 namespace CSharpFundamentals
 {
@@ -11,10 +13,12 @@ namespace CSharpFundamentals
         static void Main()
         {
             // Variable.Run();
+
+
             
 
-            moderncsharp modern = new moderncsharp();
-            modern.Run();
+            Async asyncExample = new Async();
+            asyncExample.Run();
         }
     }
 }
