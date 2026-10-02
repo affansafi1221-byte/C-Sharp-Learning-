@@ -10,8 +10,8 @@ namespace CSharpFundamentals
         static void Main()
         {
             // Variable.Run();
-            OOPs oops = new OOPs();
-            oops.Run();
+            Important important = new Important(1001);
+            important.Run();
         }
     }
 }
