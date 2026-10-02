@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="03_Methods\" />
-    <Folder Include="04_Collections\" />
     <Folder Include="08_Async\" />
     <Folder Include="09_File_Data\" />
     <Folder Include="06_Important\" />

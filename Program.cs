@@ -10,7 +10,8 @@ namespace CSharpFundamentals
         static void Main()
         {
             // Variable.Run();
-            Collections.Run();
+            Operations operations = new Operations();
+            operations.Run();
         }
     }
 }
