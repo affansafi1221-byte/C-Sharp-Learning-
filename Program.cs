@@ -17,10 +17,10 @@ namespace CSharpFundamentals
 
 
 
-            
 
-            FileData fileData = new FileData();
-            fileData.Run();
+
+            ControlFlow2 controlFlow2 = new ControlFlow2();
+            controlFlow2.Run();
         }
     }
 }

@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="05_OOPs\" />
-    <Folder Include="02_Control Flow\" />
   </ItemGroup>
 
 </Project>
