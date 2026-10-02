@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="08_Async\" />
     <Folder Include="09_File_Data\" />
-    <Folder Include="07_Modern\" />
     <Folder Include="05_OOPs\" />
     <Folder Include="02_Control Flow\" />
   </ItemGroup>

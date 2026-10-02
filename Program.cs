@@ -1,5 +1,6 @@
 ﻿// Program.cs
 using CSharpFundamentals._03_Methods;
+using CSharpFundamentals._07_Modern;
 using CSharpFundamentals.Basics;
 using System.ComponentModel.DataAnnotations;
 
@@ -10,8 +11,10 @@ namespace CSharpFundamentals
         static void Main()
         {
             // Variable.Run();
-            Important important = new Important(1001);
-            important.Run();
+            
+
+            moderncsharp modern = new moderncsharp();
+            modern.Run();
         }
     }
 }
